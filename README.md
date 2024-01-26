@@ -1,8 +1,6 @@
 The parts where the examples are written
 
 
-Installation: Installing Python on your computer.
-Python shell: Learning how to use the Python shell.
 Comment: Writing comments in Python code.
 Print: Printing output to the console.
 Indentation: Understanding the importance of indentation in Python.
